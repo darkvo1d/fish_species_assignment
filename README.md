@@ -27,6 +27,15 @@ python FlaskApp.py
 Currently the project is deployed on heroku.
 The app can be accessed [here](https://predict-fish-species-ass.herokuapp.com)
 
+## Files
+
+- Fish_Species_LR_Sarvang_100838643.ipynb contains the model structure
+- Fish.csv is the dataset
+- FlaskApp.py is the main flask app
+- templates/index.html has the html file
+- static/css/style.css has the css file for the html
+- classifier.pkl is the saved model
+
 ## Credits
 - Noopa [linkedIn](https://www.linkedin.com/in/noopajagadeesh/?originalSubdomain=ca) : For guidance 
 
